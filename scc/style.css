@@ -20,7 +20,7 @@
   list-style: none;
 }
 .site-nav .link {
-  color: ;
+  color: var(--title-text-color);
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
