@@ -7,6 +7,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  color: #757575;
 }
 .list {
   list-style: none;
@@ -155,12 +156,14 @@ body {
   font-size: 16px;
   line-height: 1.62;
   color: var(--title-text-color);
+  cursor: pointer;
 }
 .button-item:hover,
 .button-item:focus {
   color: #ffffff;
   background-color: var(--accent-color);
 }
+
 .portfolio-title {
   font-weight: bold;
   font-size: 18px;
