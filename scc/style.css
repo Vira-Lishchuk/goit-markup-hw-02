@@ -148,3 +148,22 @@ body {
 .address-link:focus {
   color: var(--accent-color);
 }
+
+/* -----Portfolio------ */
+.button-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  color: var(--title-text-color);
+}
+.button-item:hover,
+.button-item:focus {
+  color: #ffffff;
+  background-color: var(--accent-color);
+}
+.portfolio-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  color: var(--title-text-color);
+}
