@@ -177,3 +177,6 @@ body {
   line-height: 2;
   color: var(--title-text-color);
 }
+.portfolio-text {
+  color: var(--primary-text-color);
+}
